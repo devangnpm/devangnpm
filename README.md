@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Javascript/TS.<br>👯 I’m looking to collaborate with JS/TS Developers and grow together.<br> 📚 I’m currently learning Backend<br>💬 Ask me about Javascript/Typescript, Fedora :)<br>📈 Goal is to get atleast 1% better everyday <br>
+Growing up spending most of the time on my computer and building it made me fall in love with technology and the working of the internet. So feeding to my curiosity I decided to go all in on learning web developement in JavaScript and attain the power to imagine and build things just for the thrill. I'm currently learning about backend development along with building projects. My tech stack mainly includes React,Express, Nextjs as of now. Im always expanding my knowledge learning new things and want to go low level to understand things at a deeper level.
 
 
 ## 🌐 Socials:
