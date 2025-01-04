@@ -1,6 +1,8 @@
 #  About Me:
 Growing up spending most of the time on my computer and building it made me fall in love with technology and the working of the internet. So feeding to my curiosity I decided to go all in on learning web developement in JavaScript and attain the power to imagine and build things just for the thrill. I'm currently learning about backend development along with building projects. My tech stack mainly includes React,Express, Nextjs as of now. Im always expanding my knowledge learning new things and want to go low level to understand things at a deeper level.
 
+P.S : getting 1% better everyday
+
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devang-yadav-013844269/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@devang82) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/0xdevang1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xdevang1) 
